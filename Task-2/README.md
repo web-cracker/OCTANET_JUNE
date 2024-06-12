@@ -21,7 +21,7 @@ This project is a simple to-do list application created using HTML, CSS, and Jav
 5. Delete tasks by clicking on the delete button.
 
 ## Demo
-[Link to Live Demo](https://localhost:5500) 
+[Link to Live Demo](https://octanet-june-task2.vercel.app/) 
 
 ## Screenshots
 ![Screenshot 1](img/sc1.png)
