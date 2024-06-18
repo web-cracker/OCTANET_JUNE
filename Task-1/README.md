@@ -1,5 +1,5 @@
 # Responsive Landing Page Website
-## [Live Preview]([https://octanet-june-alpha.vercel.app/])
+## [Live Preview](https://octanet-june-alpha.vercel.app/)
 ### Responsive Landing Page Website
 
 - Responsive Landing Page Website Design Using HTML CSS & JavaScript
@@ -11,5 +11,6 @@
 
 Connect me on Linkedin for fullstack, web development, web design, App Development and SEO Services. [Zuber Ahamad](https://www.linkedin.com/in/mohammed-zuber-ahamad/)
 
-![image](https://github.com/web-cracker/OCTANET_JUNE/assets/96331306/d71dca1c-18d9-4586-82b8-fa94247f2e81)
+![image](https://github.com/web-cracker/OCTANET_JUNE/assets/96331306/f0f7fbc0-4476-445b-9d74-137350cf0bd4)
+
 
