@@ -1,5 +1,5 @@
 # Responsive Landing Page Website
-## [Live Preview]([https://localhost:5500](https://octanet-june-alpha.vercel.app/])
+## [Live Preview]([https://octanet-june-alpha.vercel.app/])
 ### Responsive Landing Page Website
 
 - Responsive Landing Page Website Design Using HTML CSS & JavaScript
